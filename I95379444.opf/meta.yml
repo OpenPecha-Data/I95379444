@@ -1,0 +1,18 @@
+id: I95379444
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:27:52.920710
+last_modified: 2023-01-04 11:27:52.920723
+source_metadata:
+  collections:
+  - Alak Zenkar Pema Ngödrup Rolwe Dorje
+  - Works of Tibetan Masters
+bases:
+  BD4C:
+    title: A Prayer to Tārā
+    base_file: BD4C.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
